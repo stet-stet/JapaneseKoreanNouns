@@ -4,7 +4,7 @@ A json file containing ~29k Korean nouns and their Japanese translations
 # Note
 
 Entry numbers from 1 to 2999 are "commonly used" words in Korea, sorted in 가나다(Korean alphabetical) order. 
-The rest is ordered randomly.
+The rest are ordered randomly.
 
 # Disclaimer, VERY IMPORTANT.
 
